@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg950\deff0\deflang1033\deflangfe1028{\fonttbl{\f0\fmodern\fprq6\fcharset136 \'b7\'73\'b2\'d3\'a9\'fa\'c5\'e9;}}
+{\*\generator Msftedit 5.41.15.1515;}\viewkind4\uc1\pard\lang1028\b\f0\fs20 #player,#player a\{ color:#000000;  font-size: 10px; font-family: tahoma;\}\par
+#player\{ background:url(http://static.tumblr.com/kwaqeuc/eb7lze93x/sizerandvolj_copy.png); background-position:bottom; background-color: #ffffff;\}\par
+#player .mainImage\{ background:url(http://i.imgur.com/i9MWTNJ.png); \}\par
+\par
+#player #baseLeft\{ width:93px; \}\par
+#player #baseRight\{ width:145px;\}\par
+#player .button\{  width:26px; \}\par
+#player #play\{ background:url(http://i.imgur.com/KmLcmoj.png); \}\par
+#player #play,#player #pause\{ left:26px; \}\par
+#player #previous\{ left:0px; \}\par
+#player #next\{ left:52px; \}\par
+#player #title\{ left:90px;  font-size: 9px; \}\par
+#player #tooltip\{ right:196px; \}\par
+#player #timer\{ right:120px;  \}\par
+#player #list\{ right:0px; \}\par
+\par
+#player #seeker\{ right:320px; \}\par
+#player #seekerBase\{ border-color:#000000;  \}\par
+#player #seekerBuffered\{ background-color:#000; \}\par
+#player #seekerSliderBase\{ background-color:#fff; \}\par
+\par
+#player #volume\{ width:65px; right:39px; \}\par
+#player #volumeSlider\{ width:8px; background:url(http://static.tumblr.com/uwguqop/O2qm9c1s9/volume.png); \}\par
+\par
+#playlist,#playlist .module,#playlist h3\{ border-color:#ffffff;\}\par
+#playlist .module\{  color:#000000; background-color:#ffffff; \}\par
+#playlist h3\{ background:url(http://static.tumblr.com/uwguqop/4hpm9c1rw/fundodaplay.png); color:#000000; background-color:#BEBEBE;  \}\par
+#playlist .even\{background-color:#fff;\}\par
+#playlist .odd\{ background-color:#fff;\}\par
+#playlist .focus\{ background-color:#fff; color:#aaa;\}\b0\par
+}
+ 
